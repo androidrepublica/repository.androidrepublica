@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="repository.androidrepublica-7.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/repository.androidrepublica-7.0.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

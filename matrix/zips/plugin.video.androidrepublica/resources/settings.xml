@@ -1,0 +1,36 @@
+﻿<settings>
+  <category label="Androidrepublica">
+    <setting id="save_location" type="folder"  label="Select a download location." default=""/>
+    <setting id="use_thumb" type="bool" label="Use Thumbnails as Fanart" visible="false" default="false" />
+    <setting id="logo-folderPath" type="folder"  label="Select Directory for logo." visible="false" default=""/>
+    <setting id="add_playlist" type="bool" label="Enable Parse if Channel or Movie Cannot Play" default="false"/>
+    <setting id="ask_playlist_items" type="bool" label="Ask playlist items to choose from dialog" visible="false" default="false" />
+    <setting id="debug" type="bool" label="Enable Add-on Debugging" default="false"/>
+    <setting id="1080pquality" label="Play 1080p video ON demand if available (Not live)" type="bool" default=""/>
+    <setting id="genesisorpulsar" type="enum" values="Genesis|Pulsar" label="Play IMDBid with:" visible="false" default="Genesis"/>
+    <setting id="donotshowbychannels" label="Do Not show items under channel name" type="bool" visible="false" default="false"/>
+ 	<setting id="vinstall" type="bool" label="Ask pp" visible ='false' default="false" />
+    <setting id="vmail" type="text" label="Mail" default="androidrepublica.com" visible="false"/>
+    <setting id="vpin" type="text" label="Pin" default="" visible="false"/>
+   
+    <setting id="parentalblockedpin" label="Parental Block Pin" type="text"  option="hidden"  default=""/>
+    <setting id="parentalblocked" label="Is Parental Blocked Applied?" type="bool" default="false" enable="false"/>
+    
+  </category>
+ 
+  <category label="Shopee : Androidrepublica">
+    <setting id="browse_xml_database" type="bool" label="Browse and play from .xml Database" visible="false" default="false"/>
+    <setting type="action" label="https://shopee.com.my/androidrepublica" option="close" action="Container.Update(plugin://plugin.video.androidrepublica/?mode=14)" />
+  </category>
+  
+  <category label="Facebook : ARMCTV">
+    <setting id="browse_community" type="bool" label="Browse and play from Community Files" visible="false" default="false"/>
+    <setting type="action" label="https://www.facebook.com/armctv" option="close" action="Container.Update(plugin://plugin.video.androidrepublica/?mode=10)" />
+  </category>
+  
+   <category label="Yezza Store : Androidrepublica">
+   <setting id="browse_community" type="bool" label="Browse and play from Community Files" visible="false" default="false"/>
+   <setting type="action" label="https://androidrepublica.yezza.store" option="close" action="Container.Update(plugin://plugin.video.androidrepublica/?mode=10)" />
+   </category>
+   
+</settings>

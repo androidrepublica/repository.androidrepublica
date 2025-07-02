@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.androidrepublica" name="[COLOR blue]Androidrepublica[/COLOR]" version="11.0~Free" provider-name="Androidrepublica">
+	<requires>
+		<import addon="script.module.six"/>
+		<import addon="script.module.kodi-six"/>
+		<import addon="script.module.requests" version="2.22.0" />
+		<import addon="script.module.websocket" version="0.50.0"  optional="true"/>
+		<import addon="script.module.youtube.dl" optional="true"/>
+		<import addon="plugin.video.youtube" optional="true"/>
+		<import addon="script.module.dateutil" optional="true"/>
+		<import addon="script.module.resolveurl" version="5.1.0" />
+		<import addon="script.module.urlresolver" optional="true"/>
+		<import addon="script.module.cloudscraper" optional="true"/>
+		<import addon="script.module.inputstreamhelper" optional="true"/>
+		<import addon="script.module.slproxy" optional="true"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+
+	<extension point="xbmc.addon.metadata">
+		<summary>Kodi IPTV Malaysia | Androidrepublica Free Edition</summary>
+		<description>Kodi IPTV Malaysia official addon untuk stream malaysia content. Addon ini adalah percuma untuk digunakan. Support kami di FB : [COLOR blue]ARMCTV[/COLOR] , Website : [COLOR blue]androidrepublica.com[/COLOR] dan Youtube Channel : [COLOR red]Kodi Malaysia[/COLOR]</description>       
+		<disclaimer lang="en">The content provided in this addon is available free on public domain. We do not host any content</disclaimer>
+		<platform>all</platform>
+		<news>
+		[B]Version 11.0~Free - 14 Jun 2025[/B]
+				- Kodi 21 Omega
+		</news>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.png</screenshot>
+			<screenshot>resources/screenshot-02.png</screenshot>
+			<screenshot>resources/screenshot-03.png</screenshot>
+		</assets>
+	</extension>
+</addon>

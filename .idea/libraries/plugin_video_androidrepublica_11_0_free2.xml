@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="plugin.video.androidrepublica-11.0~free2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nexus/zips/plugin.video.androidrepublica/plugin.video.androidrepublica-11.0~free.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

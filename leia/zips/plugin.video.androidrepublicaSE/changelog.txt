@@ -1,0 +1,8 @@
+[B]Version 10.0.0~SE[/B]
+Kodi Omega compatible version
+
+[B]Version 9.0.0~SE[/B]
+Kodi Nexus compatible version
+
+[B]Version 6.0.0~SE[/B]
+Kodi Matrix compatible version

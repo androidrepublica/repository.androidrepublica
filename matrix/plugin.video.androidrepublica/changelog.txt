@@ -1,0 +1,20 @@
+[B]Version 11.0.0~Free[/B]
+-Kodi 21 Omega
+
+[B]Version 10.0.0~Free[/B]
+-Reroute New Server
+
+[B]Version 9.0.0~Free[/B]
+-Reroute New Server
+
+[B]Version 9.0.0~Free[/B]
+-Kodi 20 Nexus Compatibility
+
+[B]Version 8.1.0~Free[/B]
+-Bug Fix
+-Reroute Telegram Group
+
+[B]Version 8.0.0~Free[/B]
+Kodi Matrix compatible version
+
+

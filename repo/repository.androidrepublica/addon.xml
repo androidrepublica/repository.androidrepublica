@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.androidrepublica" name="[COLOR lime]Androidrepublica[/COLOR] Repo" version="7.0" provider-name="Androidrepublica">
 	<extension point="xbmc.addon.repository" name="Androidrepublica Repo">
+		<dir minversion="18.0.0" maxversion="18.9.9">
+			<info compressed="false">https://raw.githubusercontent.com/androidrepublica/repository.androidrepublica/master/leia/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/androidrepublica/repository.androidrepublica/master/leia/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/androidrepublica/repository.androidrepublica/master/leia/zips/</datadir>
+		</dir>
+		<dir minversion="19.0.0" maxversion="19.9.9">
+			<info compressed="false">https://raw.githubusercontent.com/androidrepublica/repository.androidrepublica/master/matrix/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/androidrepublica/repository.androidrepublica/master/matrix/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/androidrepublica/repository.androidrepublica/master/matrix/zips/</datadir>
+		</dir>
 		<dir minversion="20.0.0" maxversion="20.9.9">
 			<info compressed="false">https://raw.githubusercontent.com/androidrepublica/repository.androidrepublica/master/nexus/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/androidrepublica/repository.androidrepublica/master/nexus/zips/addons.xml.md5</checksum>
