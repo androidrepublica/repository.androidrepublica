@@ -22,6 +22,12 @@ Instructions:
 4. Install latest version of androidrepublica / androidrepublicaSE from my repo
 5. Get the pin to unlock
 
+## 📺 Video Panduan Pemasangan
+
+Klik pautan di bawah untuk menonton video tutorial:
+
+👉 [Tonton di Facebook](https://www.facebook.com/armctv/videos/2837275816466713/)
+
 # Androidrepublica Pin
 
    Free Androidrepublica Pin : [AR Telegram Group Support](https://t.me/armctv)
