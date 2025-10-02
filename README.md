@@ -30,7 +30,7 @@ Klik pautan di bawah untuk menonton video tutorial:
 
 # Androidrepublica Pin
 
-   Free Androidrepublica Pin : [AR Telegram Group Support](https://t.me/armctv)
+   Free Androidrepublica Pin : Boleh didapati secara percuma di [Website AR](https://androidrepublica.com/arpin.html) or Join [Telegram Group Support AR](https://t.me/armctv)
 
 # AndroidrepublicaSE Pin
 
