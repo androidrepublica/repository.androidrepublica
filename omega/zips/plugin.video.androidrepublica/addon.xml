@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.androidrepublica" name="[COLOR blue]Androidrepublica[/COLOR]" version="11.0~Free" provider-name="Androidrepublica">
+<addon id="plugin.video.androidrepublica" name="[COLOR blue]Androidrepublica[/COLOR]" version="12.0~Free" provider-name="Androidrepublica">
 	<requires>
 		<import addon="script.module.six"/>
 		<import addon="script.module.kodi-six"/>
@@ -24,7 +24,7 @@
 		<disclaimer lang="en">The content provided in this addon is available free on public domain. We do not host any content</disclaimer>
 		<platform>all</platform>
 		<news>
-		[B]Version 11.0~Free - 14 Jun 2025[/B]
+		[B]Version 12.0~Free - 02 Mar 2026[/B]
 				- Kodi 21 Omega
 		</news>
 		<assets>

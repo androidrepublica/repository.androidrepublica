@@ -1,3 +1,6 @@
+[B]Version 12.0.0~Free[/B]
+-Reroute Server
+
 [B]Version 11.0.0~Free[/B]
 -Kodi 21 Omega
 

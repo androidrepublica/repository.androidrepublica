@@ -134,7 +134,7 @@ def index():
     DIALOG = xbmcgui.Dialog()
 
     # New URL to fetch the PIN
-    url = 'https://raw.githubusercontent.com/androidrepublica/addon/refs/heads/master/AR'
+    url = 'https://raw.githubusercontent.com/androidrepublica/kodimalaysia/refs/heads/main/AR'
     headers = {'User-Agent': 'Mozilla/5.0'}
 
     try:
