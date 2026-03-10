@@ -34,7 +34,7 @@ Klik pautan di bawah untuk menonton video tutorial:
 
 # AndroidrepublicaSE Pin
 
-   AndroidrepublicaSE Pin : [AR Shopee](https://s.shopee.com.my/9f98dKTvLG), [Whatsapp](https://wa.me/6010294154)
+   AndroidrepublicaSE Pin : [AR Shopee](https://s.shopee.com.my/9f98dKTvLG), [Whatsapp](https://api.whatsapp.com/send/?phone=60102941542)
 
 ***
 
