@@ -26,7 +26,7 @@ Instructions:
 
 Klik pautan di bawah untuk menonton video tutorial:
 
-👉 [Tonton di Facebook](https://www.facebook.com/armctv/videos/2837275816466713/)
+👉 [Tonton di Facebook](https://fb.watch/FLL6PHOBFu/)
 
 # Androidrepublica Pin
 
@@ -34,7 +34,7 @@ Klik pautan di bawah untuk menonton video tutorial:
 
 # AndroidrepublicaSE Pin
 
-   AndroidrepublicaSE Pin : [AR Shopee](https://s.shopee.com.my/9f98dKTvLG), [Yezza Shop](https://androidrepublica.yezza.store/)
+   AndroidrepublicaSE Pin : [AR Shopee](https://s.shopee.com.my/9f98dKTvLG), [Whatsapp](https://wa.me/6010294154)
 
 ***
 
